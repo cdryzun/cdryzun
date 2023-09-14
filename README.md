@@ -63,7 +63,4 @@
     <img width="50" title="nginx" alt="nginx logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
 </a> &#xa0; &#xa0;
 
-<a href="https://www.python.org/">
-    <img width="50" title="python" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</a> &#xa0; &#xa0;
 </div>
