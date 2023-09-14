@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">DevOps & SRE practitioners from China</h3>
+<h3 align="center">DevOps & Infrastructure Engineer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdryzun&label=Profile%20views&color=0e75b6&style=flat" alt="cdryzun" /> </p>
 
