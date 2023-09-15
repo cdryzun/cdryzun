@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdryzun&label=Profile%20views&color=0e75b6&style=flat" alt="cdryzun" /> </p>
 
-- 🔭 I’m currently working on **...**
-
-- 🌱 I’m currently learning **...**
-
-- 👯 I’m looking to collaborate on **...**
-
-- 🤝 I’m looking for help with **...**
-
-
 ---
 ### 🚀 Main Technologies 
 <div align="left">
