@@ -1,93 +1,65 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="cdryzun terminal" width="100%"/>
+  <img src="./assets/header.svg" alt="cdryzun" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=cdryzun&style=flat-square&color=00ff41&label=PROFILE+VIEWS)](https://github.com/cdryzun)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/cdryzun?style=flat-square&color=00bfff&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/cdryzun?tab=followers)&nbsp;
-[![GitHub repos](https://img.shields.io/badge/dynamic/json?color=00ff41&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcdryzun&style=flat-square)](https://github.com/cdryzun?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=cdryzun&style=flat-square&color=00d4aa&label=PROFILE+VIEWS)](https://github.com/cdryzun)&nbsp;
+[![Followers](https://img.shields.io/github/followers/cdryzun?style=flat-square&color=4a8eff&label=FOLLOWERS&logo=github&logoColor=white)](https://github.com/cdryzun?tab=followers)
 
-</div>
-
----
-
-```text
-$ ls -la ./skills
-```
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-```text
-drwxr-xr-x  infrastructure/
-  ├── kubernetes      [expert]
-  ├── docker          [expert]
-  ├── helm            [advanced]
-  ├── argocd          [advanced]
-  ├── terraform       [advanced]
-  ├── ansible         [advanced]
-  ├── gitlab-ci       [expert]
-  └── jenkins         [advanced]
-
-drwxr-xr-x  observability/
-  ├── prometheus      [expert]
-  ├── grafana         [advanced]
-  ├── victoriametrics [advanced]
-  ├── elasticsearch   [advanced]
-  └── nginx           [expert]
-```
-
-</td>
-<td valign="top" width="50%">
-
-```text
-drwxr-xr-x  ai-infrastructure/
-  ├── django          [expert]
-  ├── python          [expert]
-  ├── llm-ops         [advanced]
-  ├── rag-pipeline    [advanced]
-  ├── qdrant          [advanced]
-  └── dify            [advanced]
-
-drwxr-xr-x  languages/
-  ├── go              [advanced]
-  ├── python          [expert]
-  ├── bash            [expert]
-  ├── typescript      [intermediate]
-  └── rust            [learning]
-```
-
-</td>
-</tr>
-</table>
-
----
-
-```text
-$ cat /proc/github_stats
-```
-
-<div align="center">
-  <img height="175" src="https://cdryzun-readme-stats.vercel.app/api?username=cdryzun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-  &nbsp;
-  <img height="175" src="https://cdryzun-readme-stats.vercel.app/api/top-langs/?username=cdryzun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="62%" src="https://streak-stats.demolab.com/?user=cdryzun&theme=tokyonight&hide_border=true&date_format=Y-m-d"/>
+
+<sub>INFRASTRUCTURE & PLATFORM</sub>
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+<sub>OBSERVABILITY & DATA</sub>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+
+<sub>AI STACK & LANGUAGES</sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 </div>
 
 ---
 
-```text
-$ git log --oneline --stat ./projects
-```
+<div align="center">
+  <img height="170" src="https://cdryzun-readme-stats.vercel.app/api?username=cdryzun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  &nbsp;&nbsp;
+  <img height="170" src="https://cdryzun-readme-stats.vercel.app/api/top-langs/?username=cdryzun&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="65%" src="https://streak-stats.demolab.com/?user=cdryzun&theme=tokyonight&hide_border=true&date_format=Y-m-d"/>
+</div>
+
+---
 
 <table>
 <tr>
@@ -115,18 +87,6 @@ $ git log --oneline --stat ./projects
 </td>
 </tr>
 </table>
-
----
-
-```text
-$ history | tail -n 6
-  996  kubectl rollout status deploy/ai-gateway -n prod
-  997  terraform apply -target=module.postgres_ha --auto-approve
-  998  dify upgrade --channel stable && kubectl rollout restart deploy/dify
-  999  promtool check rules /etc/prometheus/rules/*.yml
- 1000  go build -ldflags="-s -w" -o bin/inotify-watcher ./cmd/...
- 1001  git push origin main
-```
 
 ---
 
