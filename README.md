@@ -72,9 +72,9 @@ $ cat /proc/github_stats
 ```
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=cdryzun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="175" src="https://cdryzun-readme-stats.vercel.app/api?username=cdryzun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
   &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdryzun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="175" src="https://cdryzun-readme-stats.vercel.app/api/top-langs/?username=cdryzun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
@@ -93,24 +93,24 @@ $ git log --oneline --stat ./projects
 <tr>
 <td width="50%">
 <a href="https://github.com/cdryzun/inotify-watcher">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cdryzun&repo=inotify-watcher&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://cdryzun-readme-stats.vercel.app/api/pin/?username=cdryzun&repo=inotify-watcher&theme=tokyonight&hide_border=true"/>
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/cdryzun/gitlab-ci-templates">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cdryzun&repo=gitlab-ci-templates&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://cdryzun-readme-stats.vercel.app/api/pin/?username=cdryzun&repo=gitlab-ci-templates&theme=tokyonight&hide_border=true"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/cdryzun/trackers">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cdryzun&repo=trackers&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://cdryzun-readme-stats.vercel.app/api/pin/?username=cdryzun&repo=trackers&theme=tokyonight&hide_border=true"/>
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/cdryzun/Cloudflare-edge-accelerator">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cdryzun&repo=Cloudflare-edge-accelerator&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://cdryzun-readme-stats.vercel.app/api/pin/?username=cdryzun&repo=Cloudflare-edge-accelerator&theme=tokyonight&hide_border=true"/>
 </a>
 </td>
 </tr>
