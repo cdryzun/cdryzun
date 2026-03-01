@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 36" width="900" height="36">
   <rect width="900" height="36" fill="#0d0d0d"/>
   <rect x="0" y="0" width="3" height="36" fill="#00d4aa" opacity="0.55"/>
-  <line x1="3" y1="1" x2="900" y2="1" stroke="#1c1c1c" stroke-width="1"/>
+  <line x1="3" y1="1" x2="900" y2="1" stroke="#2e2e2e" stroke-width="1"/>
+  <!-- 文字从 #303030 提亮至 #585858 -->
   <text x="450" y="22" font-family="Courier New, monospace" font-size="11.5"
-        fill="#303030" text-anchor="middle" letter-spacing="1.5">
+        fill="#585858" text-anchor="middle" letter-spacing="1.5">
     cdryzun · sre · devops · ai-infra · shenzhen
   </text>
 </svg>
