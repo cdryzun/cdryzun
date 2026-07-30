@@ -36,7 +36,7 @@
   </text>
 
   <!-- Role -->
-  <text x="26" y="134" font-family="Courier New, monospace" font-size="13.5" fill="#00d4aa" letter-spacing="0.3">SRE · DevOps · AI Infrastructure Engineer</text>
+  <text x="26" y="134" font-family="Courier New, monospace" font-size="13.5" fill="#00d4aa" letter-spacing="0.3">AI-Native Engineer · SRE · DevOps · Platform Engineering</text>
 
   <!-- Location — 从 #404040 提亮至 #767676 -->
   <circle cx="28" cy="152" r="3.5" fill="#28C940" opacity="0.9"/>
