@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="cdryzun — AI-Native Engineer, SRE, DevOps, and Platform Engineering" width="100%"/>
+  <img src="./assets/header.svg" alt="Zayn — AI-Native Engineer, SRE, DevOps, and Platform Engineering" width="100%"/>
 
   <p>
     <a href="https://www.treesir.pub">Blog</a> ·
