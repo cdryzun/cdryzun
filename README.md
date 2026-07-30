@@ -18,12 +18,6 @@ I am a CKA/CKS-certified engineer with seven years of experience turning infrast
 - Built private LLM infrastructure and authenticated API/MCP workflows handling **3,500+ daily calls** for **20+ engineers**.
 - Standardized reusable delivery platforms and engineering practices supporting **50+ engineers**.
 
-## Selected work
-
-- [`llm-relay-gateway`](https://github.com/cdryzun/llm-relay-gateway) — self-hosted LLM relay gateway for private routing, provider compatibility, quotas, and audit controls.
-- [`gitlab-ci-templates`](https://github.com/cdryzun/gitlab-ci-templates) — reusable multi-language CI/CD templates with Docker, SonarQube, GitOps, and secret scanning.
-- [`argocd-plugins`](https://github.com/cdryzun/argocd-plugins) — production-ready Argo CD CMP v2 plugin and Helm base for platform teams.
-- [`inotify-watcher`](https://github.com/cdryzun/inotify-watcher) — Go-based Linux filesystem watcher with write-completion detection and intelligent debouncing.
 
 ## Core stack
 
